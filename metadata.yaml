@@ -1,0 +1,38 @@
+_repo: The-Man-of-Taste_33441
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Lock, F. P.
+    aliases:
+    - Lock, Frederick
+    - Lock, Fred
+    gutenberg_agent_id: '36408'
+    url: http://www.gutenberg.org/2009/agents/36408
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bramston, James
+    birthdate: 1693
+    deathdate: 1744
+    gutenberg_agent_id: '36407'
+    url: http://www.gutenberg.org/2009/agents/36407
+    wikipedia: http://en.wikipedia.org/wiki/James_Bramston
+description: ''
+gutenberg_issued: '2010-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33441'
+  lccn: '75329408'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Verse satire, English'
+- !lcsh 'Pope, Alexander, 1688-1744 -- Poetry'
+- !lcsh 'Aesthetics, British -- 18th century -- Poetry'
+- !lcc 'PR'
+title: The Man of Taste
+url: http://www.gutenberg.org/ebooks/33441
